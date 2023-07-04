@@ -1,0 +1,30 @@
+* {
+    background-color:bisque;
+}
+
+h1 {
+    color: red;
+    font-family:"Comic Sans",sans-serif;
+}
+
+ul,
+.LinkTable {
+    background-color:blanchedalmond;
+    font-family:"Courier New",serif;
+}
+
+.LinkTable,
+.IngredientList {
+    width:400px;
+    border-color:red;
+    border-style:dashed;
+}
+
+img {
+    height:500px;
+    width:auto;
+}
+
+.IngredientList h3 {
+    text-align: center;
+}
